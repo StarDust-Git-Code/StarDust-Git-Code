@@ -1,5 +1,6 @@
 <!-- CYBER-TECH PROFILE ENGINE VERSION 2.4.0 -->
 <!-- PROTOCOL: BUILDER // AUTHOR: STARDUST-GIT-CODE -->
+
 <div align="center">
   <!-- Dynamic Cyber Hero Banner -->
   <svg width="100%" height="160" viewBox="0 0 800 160" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -67,12 +68,15 @@
     <img src="https://img.shields.io/badge/LICENSE-MIT-FF007F?style=flat-square" alt="License"/>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=StarDust-Git-Code.StarDust-Git-Code&left_color=161b22&right_color=00e5ff&left_text=LOGGED_ACCESS" alt="Visitor Counter"/>
   </div>
+
   <br/>
+
   <!-- Interactive Matrix Typing Effect -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=00E5FF&center=true&vCenter=true&width=620&lines=Architecting+autonomous+robotics+platforms...;Developing+digital+twins+for+smart+infrastructure...;Deploying+distributed+edge+AI+sensor+nodes...;Building+resilient+cyber-physical+systems..." alt="Typing Indicator" />
   </a>
 </div>
+
 <!-- Bespoke Section Divider 1 -->
 <p align="center">
   <svg width="100%" height="10" viewBox="0 0 1000 10" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -90,7 +94,9 @@
     </defs>
   </svg>
 </p>
+
 ## 📡 SYSTEM DIAGNOSTICS & OVERVIEW
+
 ```text
 ======================= METADATA CONTROLLER INTERFACE =======================
 [IDENTITY]       StarDust-Git-Code
@@ -99,10 +105,15 @@
 [FOCUS AREAS]    Spatial Telemetry // Embedded Firmware // Distributed IoT
 =============================================================================
 ```
+
 I am an open-source engineer, systems architect, and hardware innovator sitting at the convergence of rugged mechanical design, real-time sensor processing, and high-performance embedded programming. My workflow bridges the gap between digital modeling and physical environments—transforming high-velocity raw telemetry from edge microcontrollers into rich, real-time spatial digital twins. 
+
 Whether building low-latency ROS2 navigation pipelines, tuning battery-optimized RTOS firmware for distributed sensor networks, or designing mechanical joints for custom rovers, I build with **performance, modularity, and production-readiness** in mind.
+
 ---
+
 ## 🛠️ THE CORE TECH STACKS
+
 <table align="center" width="100%">
   <tr>
     <td valign="top" width="50%">
@@ -191,6 +202,7 @@ Whether building low-latency ROS2 navigation pipelines, tuning battery-optimized
     </td>
   </tr>
 </table>
+
 <!-- Bespoke Section Divider 2 -->
 <p align="center">
   <svg width="100%" height="10" viewBox="0 0 1000 10" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -208,8 +220,11 @@ Whether building low-latency ROS2 navigation pipelines, tuning battery-optimized
     </defs>
   </svg>
 </p>
+
 ## 🌌 FEATURED DEPLOYED PROJECTS
+
 Here is the operational blueprint of active hardware platforms and software ecosystems currently deployed in the field:
+
 <table width="100%">
   <!-- ROW 1 -->
   <tr>
@@ -322,6 +337,7 @@ Here is the operational blueprint of active hardware platforms and software ecos
     </td>
   </tr>
 </table>
+
 <!-- Bespoke Section Divider 3 -->
 <p align="center">
   <svg width="100%" height="10" viewBox="0 0 1000 10" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -339,7 +355,9 @@ Here is the operational blueprint of active hardware platforms and software ecos
     </defs>
   </svg>
 </p>
+
 ## 📊 CORE TELEMETRY & OPERATIONS PANEL
+
 <table align="center" width="100%">
   <tr>
     <td valign="top" width="50%">
@@ -354,12 +372,15 @@ Here is the operational blueprint of active hardware platforms and software ecos
     </td>
   </tr>
 </table>
+
 <br/>
+
 <div align="center">
   <a href="https://github.com/StarDust-Git-Code">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=StarDust-Git-Code&theme=tokyonight&bg_color=0D1117&color=00e5ff&line=FF007F&point=9D00FF&area=true&hide_border=false" alt="Activity Graph" width="100%" />
   </a>
 </div>
+
 <!-- Bespoke Section Divider 4 -->
 <p align="center">
   <svg width="100%" height="10" viewBox="0 0 1000 10" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -371,14 +392,17 @@ Here is the operational blueprint of active hardware platforms and software ecos
         <stop stop-color="#00E5FF" stop-opacity="0"/>
         <stop offset="0.4" stop-color="#00E5FF"/>
         <stop offset="0.5" stop-color="#9D00FF"/>
-        <stop offset="0.6" stop-color="#FF007F"/>
+        <stop offset="0.6" stroke-color="#FF007F"/>
         <stop offset="1" stop-color="#FF007F" stop-opacity="0"/>
       </linearGradient>
     </defs>
   </svg>
 </p>
+
 ## 🚀 ROADMAP PROTOCOL & CURRENT RESEARCH
+
 I am constantly refining my skills and exploring the limits of cyber-physical performance. Here is what is active in my telemetry stacks:
+
 ```text
   [0%] ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  [100%]
    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
@@ -387,17 +411,25 @@ I am constantly refining my skills and exploring the limits of cyber-physical pe
   [████████████████████████░░░░░░░░░░░░░] 60%  // Custom RTOS Real-Time Tasks & Thread Sync
   [██████████████░░░░░░░░░░░░░░░░░░░░░░░] 35%  // Edge AI Tensor Optimizations (TFLite C++)
 ```
+
 - **RTOS Mechanics**: Optimizing inter-task communications and thread scheduling on dual-core microcontrollers to handle sub-millisecond sensor updates.
 - **Dynamic Mapping**: Experimenting with visual RTAB-SLAM to augment LiDAR maps with stereo cameras.
 - **Embedded C++**: Adhering strictly to MISRA C++ guidelines to ensure failure-immune telemetry firmware.
+
 ---
+
 ## ⚡ TRANSMISSIONS & SYSTEM CODES (FUN FACTS)
+
 - 🌌 **The Cosmic Connection**: The handle **StarDust** is a direct nod to astrophysics. Every carbon atom in our muscles and every silicon molecule in our microchips was forged inside the heart of an ancient dying supernova. We are literally stardust debugging stardust.
 - 💥 **Thermal Thresholds**: Over my career, I've successfully fried exactly 12 ESP32 modules, 3 LiDAR scanners, and 1 high-density PCB. Each failure has been a masterclass in grounding loops, optocoupling, and surge suppression!
 - ☕ **Transmutation Engine**: I convert high-quality dark coffee into low-latency, modular C++ algorithms and highly stable robotic control gates.
+
 ---
+
 ## 📥 CONTACT INTEGRITY & GATEWAYS
+
 If you are an investor, recruiter, engineering manager, or a fellow maker working on autonomous vehicles, spatial modeling, or IoT grids—my communications lines are open:
+
 <div align="center">
   <a href="mailto:irshad.star.dust@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-irshad.star.dust@gmail.com-00e5ff?style=flat-square&logo=gmail&logoColor=0D1117" alt="Email Gateway"/>
@@ -412,6 +444,7 @@ If you are an investor, recruiter, engineering manager, or a fellow maker workin
     <img src="https://img.shields.io/badge/DISCORD-stardust__bot-00ff66?style=flat-square&logo=discord&logoColor=0D1117" alt="Discord Gateway"/>
   </a>
 </div>
+
 <br/>
 <div align="center">
   <sub>STARDUST PROFILE ENGINE CORE V2.4.0 • BUILT WITH NEON PASSION</sub>
