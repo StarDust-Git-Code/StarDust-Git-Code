@@ -277,14 +277,7 @@ Here is the operational blueprint of active hardware platforms and software ecos
 
 I am constantly refining my skills and exploring the limits of cyber-physical performance. Here is what is active in my telemetry stacks:
 
-```text
-  [0%] ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  [100%]
-   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-  
-  [████████████████████████████████░░░░░] 80%  // ROS2 Humble Lifecycle Nodes & Nav2
-  [████████████████████████░░░░░░░░░░░░░] 60%  // Custom RTOS Real-Time Tasks & Thread Sync
-  [██████████████░░░░░░░░░░░░░░░░░░░░░░░] 35%  // Edge AI Tensor Optimizations (TFLite C++)
-```
+<img src="./roadmap.svg" width="100%" alt="StarDust Roadmap Progress" />
 
 - **RTOS Mechanics**: Optimizing inter-task communications and thread scheduling on dual-core microcontrollers to handle sub-millisecond sensor updates.
 - **Dynamic Mapping**: Experimenting with visual RTAB-SLAM to augment LiDAR maps with stereo cameras.
